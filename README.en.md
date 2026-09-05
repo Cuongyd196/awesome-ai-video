@@ -50,6 +50,7 @@ React components as video frames.
 | Project | Description |
 | --- | --- |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | Open-source montage / editing automation. |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Local-first CLI and MCP toolkit for agent-driven video composition, editing, optional generation, and editable `plan.json` timelines. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Voice-driven video direction. |
 | [flowkit](https://github.com/crisng95/flowkit) | Toolkit for Google Flow workflows. |
 

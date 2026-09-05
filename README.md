@@ -50,6 +50,7 @@ Dùng React component làm khung hình video.
 | Dự án | Mô tả |
 | --- | --- |
 | [OpenMontage](https://github.com/calesthio/OpenMontage) | Tự động hoá dựng/montage mã nguồn mở. |
+| [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) | Bộ công cụ CLI và MCP local-first cho agent lập bố cục, biên tập, tạo video tùy chọn và chỉnh sửa timeline `plan.json`. |
 | [vox-director](https://github.com/Alisa0808/vox-director) | Điều khiển dựng video bằng giọng nói. |
 | [flowkit](https://github.com/crisng95/flowkit) | Bộ công cụ cho workflow Google Flow. |
 
