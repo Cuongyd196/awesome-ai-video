@@ -1,5 +1,6 @@
 # 📹 Awesome AI Video [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 > Danh sách tuyển chọn các công cụ và dự án mã nguồn mở về **tạo video bằng AI**.
 
 Render code thành video, tạo video tin tức từ một URL, clone giọng nói, lồng tiếng cả video — hệ sinh thái mã nguồn mở hiện đã đủ tốt để làm tất cả những việc đó. Danh sách này tổng hợp các dự án dùng được thật.
